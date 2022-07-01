@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
-source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
+source-git-commit: d12902547ffde67838b326c93162d0937ff438a6
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 55%
+source-wordcount: '269'
+ht-degree: 38%
 
 ---
 
@@ -44,6 +44,18 @@ O vídeo abaixo descreve como gerar uma solicitação de assinatura de certifica
 
 *Gerar solicitações de assinatura de certificado (02:36 min)*
 
+>[!NOTE]
+>
+>Foram feitos vários aprimoramentos no processo de geração de CSR:
+>
+>* Ao gerar uma CSR, agora você pode selecionar um dos subdomínios incluídos como o Nome comum.
+>* Agora você pode copiar o resumo do CSR antes de gerar o CSR.
+>* Depois que uma CSR é gerada, você pode baixá-la novamente nos logs de trabalho. Esse recurso não se aplica a certificados gerados antes desta versão.
+>
+>![Baixar o CSR](/help/assets/download-csr.gif)
+>
+>Consulte a [documentação do produto](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=en) para saber mais.
+
 ### 2. Adquirir o certificado SSL
 
 Após obter o CSR, você deve comprar o certificado SSL de uma autoridade de certificação aprovada pela organização.
@@ -57,3 +69,5 @@ O vídeo abaixo explica como instalar certificados SSL em [!UICONTROL Control Pa
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
 
 *Instalar certificados SSL (01:25 min)*
+
+
