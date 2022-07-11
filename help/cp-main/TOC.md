@@ -7,9 +7,9 @@ feature: Control Panel
 role: Admin
 level: Experienced
 source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 81%
 + [Painel de controle do Campaign para modelos de hospedagem híbrida](/help/control-panel-for-hybrid-hosting-models.md)
 + Gerenciamento de SFTP {#sftp-management}
    + [Monitorar a capacidade do servidor](/help/sftp-management/monitor-server-capacity.md)
-   + [lista de permissões intervalos IP](/help/sftp-management/allowlist-ip-range.md)
+   + [Intervalos de IP da lista de permissões](/help/sftp-management/allowlist-ip-range.md)
    + [Gerar uma chave SSH](/help/sftp-management/generate-ssh-key.md)
    + [Conectar-se a um servidor SFTP](/help/sftp-management/connect-to-sftp-server.md)
 + Subdomínios e certificados {#subdomains-and-certificates}
@@ -30,7 +30,7 @@ ht-degree: 81%
    + [Adicionar certificados SSL](/help/subdomains-and-certificates/add-ssl-certificates.md)
    + [Gerenciamento de registros TXT do Google](/help/subdomains-and-certificates/google-txt-record-management.md)
 + Configurações de instância {#instance-settings}
-   + [lista de permissões endereços IP](/help/instance-settings/allowlist-ip-adresses.md)
+   + [Endereços de IP da lista de permissões](/help/instance-settings/allowlist-ip-adresses.md)
    + [Adicionar permissões de URL](/help/instance-settings/add-url-permissions.md)
    + Gerenciamento de chaves GPG {#gpg-key-management}
       + [Gerenciamento de chaves GPG – visão geral](/help/instance-settings/gpg-key-management/gpg-key-management-overview.md)
@@ -40,5 +40,5 @@ ht-degree: 81%
 + Monitoramento de desempenho {#performance-monitoring}
    + [Monitorar bancos de dados](/help/performance-monitoring/monitor-databases.md)
    + [Monitorar workflows](/help/performance-monitoring/monitor-workflows.md)
-   + [Monitorar throughput e latência](/help/performance-monitoring/monitor-throughputs-and-latency.md)
+   + [Monitorar taxas de transferência e latência](/help/performance-monitoring/monitor-throughputs-and-latency.md)
 + [Solução de problemas do Painel de controle do Campaign](/help/trouble-shooting.md)
