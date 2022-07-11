@@ -1,6 +1,6 @@
 ---
-title: Painel de controle do Campaign para modelos de hospedagem híbrida Adobe Campaign
-description: Saiba como ativar o Painel de controle do Campaign para modelos de hospedagem híbrida, acessar o Painel de controle e desbloquear recursos principais.
+title: Painel de controle para modelos de hospedagem híbrida do Adobe Campaign
+description: Saiba como ativar o Painel de controle do Campaign para modelos de hospedagem híbrida, acessar o Painel de controle e desbloquear os principais recursos.
 feature: Control Panel
 kt: 10483
 thumbnail: 344502.jpg
@@ -9,18 +9,18 @@ activity: use
 team: PM
 role: Admin
 level: Beginner
-source-git-commit: 12080c860dd3102389e6cbe9a15fa273f0f80ccb
-workflow-type: tm+mt
+exl-id: bdb54553-23e6-4a32-9fc8-47a313fc7179
+source-git-commit: 2ae9b94ed0fe87fa2919b9a051e0ef4a80a1566b
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-
 # Painel de controle do Campaign para modelos de hospedagem híbrida
 
-Saiba como ativar o Painel de controle do Campaign para modelos de hospedagem híbrida Adobe Campaign, acessar o Painel de controle e desbloquear recursos principais.
+Saiba como ativar o Painel de controle para modelos de hospedagem híbrida do Adobe Campaign, acessar o Painel de controle e desbloquear os principais recursos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/344502?quality=12)
 
-Para obter mais informações, consulte o [documentação do produto](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/external-accounts.html).
+Para obter mais informações, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/external-accounts.html?lang=pt-BR).
