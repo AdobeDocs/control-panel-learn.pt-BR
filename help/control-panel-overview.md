@@ -9,9 +9,9 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
-source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
-workflow-type: tm+mt
-source-wordcount: '290'
+source-git-commit: f6eefe5c95532c38d32275070416b960b208ad10
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -19,6 +19,8 @@ ht-degree: 100%
 # Visão geral do Painel de controle do Campaign
 
 O Painel de controle do Adobe Campaign permite que os administradores do Campaign monitorem ativos principais e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância, gerenciar chaves GPG ou subdomínios e certificados.
+
+<div id="whats-new-section">
 
 ## Novidades
 
@@ -35,6 +37,17 @@ O Painel de controle do Adobe Campaign permite que os administradores do Campaig
    *Saiba como monitorar as taxas de transferência de entrega e as latências de mensagem transacional da instância do Campaign.*
 
 Consulte as [Notas de versão](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=pt-BR) para obter mais informações sobre as versões mais recentes do produto.
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## Escolhas de pessoal
 
@@ -81,6 +94,8 @@ Consulte as [Notas de versão](https://experienceleague.adobe.com/docs/control-p
   </td>
 </tr>
 </table>
+
+</div>
 
 ## Recursos adicionais
 
