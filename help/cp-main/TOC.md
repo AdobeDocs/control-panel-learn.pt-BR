@@ -1,15 +1,15 @@
 ---
 user-guide-title: Tutoriais do painel de controle do Adobe Campaign
-user-guide-description: Saiba como monitorar os principais ativos das instâncias do Adobe Campaign e executar tarefas administrativas no Painel de controle do Campaign.
-breadcrumb-title: Tutoriais do Painel de controle do Campaign
+user-guide-description: Saiba como monitorar os principais ativos das instâncias do Adobe Campaign e executar tarefas administrativas no Painel de controle.
+breadcrumb-title: Tutoriais do Painel de controle
 index: true
 feature-set: Campaign
 feature: Control Panel
 role: Admin
 level: Experienced
 source-git-commit: 8844dcdb67c0ec1f27a677edbca88bc4b2d0ee97
-workflow-type: ht
-source-wordcount: '0'
+workflow-type: tm+mt
+source-wordcount: '122'
 ht-degree: 100%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 100%
 
 # Painel de controle do Adobe Campaign – Tutoriais {#tutorials}
 
-+ [Painel de controle do Campaign](/help/control-panel-overview.md)
-+ [Introdução ao Painel de controle do Campaign](/help/get-started-with-control-panel.md)
-+ [Painel de controle do Campaign para modelos de hospedagem híbrida](/help/control-panel-for-hybrid-hosting-models.md)
++ [Painel de controle](/help/control-panel-overview.md)
++ [Introdução ao Painel de controle](/help/get-started-with-control-panel.md)
++ [Painel de controle para modelos de hospedagem híbrida](/help/control-panel-for-hybrid-hosting-models.md)
 + Gerenciamento de SFTP {#sftp-management}
    + [Monitorar a capacidade do servidor](/help/sftp-management/monitor-server-capacity.md)
    + [Intervalos de IP da lista de permissões](/help/sftp-management/allowlist-ip-range.md)
@@ -42,4 +42,4 @@ ht-degree: 100%
    + [Monitorar bancos de dados](/help/performance-monitoring/monitor-databases.md)
    + [Monitorar workflows](/help/performance-monitoring/monitor-workflows.md)
    + [Monitorar taxas de transferência e latência](/help/performance-monitoring/monitor-throughputs-and-latency.md)
-+ [Solução de problemas do Painel de controle do Campaign](/help/trouble-shooting.md)
++ [Solução de problemas do Painel de controle](/help/trouble-shooting.md)

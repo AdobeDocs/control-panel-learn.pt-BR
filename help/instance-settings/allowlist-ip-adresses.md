@@ -1,6 +1,6 @@
 ---
 title: Endereços de IP da lista de permissões
-description: Saiba como adicionar um intervalo IP às lista de permissões das instâncias do Adobe Campaign e como removê-las da lista de permissões usando o painel de controle.
+description: Saiba como adicionar um intervalo IP às listas de permissões das instâncias do Adobe Campaign e como removê-las do arquivo de inclui na lista de permissões usando o painel de controle do Campaign.
 feature: Control Panel
 kt: 3479
 thumbnail: 28726.jpg
@@ -19,14 +19,14 @@ ht-degree: 62%
 
 # Endereços de IP da lista de permissões
 
-O Painel de controle do Campaign permite configurar novas conexões para suas instâncias adicionando intervalos de endereços IP à lista de permissões. Por padrão, a instância do Adobe Campaign não pode ser acessada por vários endereços IP. Portanto, um endereço IP deve ser incluir na lista de permissões:
+O Painel de controle permite configurar novas conexões para suas instâncias ao adicionar intervalos de endereços IP à lista de permissões. Por padrão, a instância do Adobe Campaign não pode ser acessada por vários endereços IP. Incluir na lista de permissões Portanto, um endereço IP deve ser mudado:
 
 * Para permitir acesso à instância do [!DNL Campaign] por este endereço IP
 * Para conectar uma API ao seu centro de mensagens ou instância de marketing
 
-## Acessar configurações da instância do Painel de controle do Campaign
+## Acessar configurações da instância do Painel de controle
 
-Para acessar o gerenciamento de subdomínio no Painel de controle do Campaign, acesse:
+Para acessar o gerenciamento de subdomínio no Painel de controle, acesse:
 
 * [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** card > **Instances Settings** card
 ou
@@ -34,8 +34,8 @@ ou
 
 ## Adicionar um intervalo IP à lista de permissões de sua instância
 
-Saiba como adicionar um intervalo IP às lista de permissões das instâncias do Adobe Campaign e como removê-las da lista de permissões usando o painel de controle.
+Saiba como adicionar um intervalo IP às listas de permissões das instâncias do Adobe Campaign e como removê-las do arquivo de inclui na lista de permissões usando o painel de controle do Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
 
-Para obter mais informações sobre IP, consulte a lista [documentação detalhada do produto](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=pt-BR).
+Para obter mais informações sobre IP, consulte a [documentação detalhada do produto](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=pt-BR).

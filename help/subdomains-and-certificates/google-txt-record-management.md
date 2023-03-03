@@ -1,6 +1,6 @@
 ---
 title: Gerenciamento de registros TXT do Google
-description: Saiba como adicionar um registro TXT do Google para verificação de site a todos os subdomínios usados para enviar emails a endereços do Gmail por meio do Painel de controle do Campaign.
+description: Saiba como adicionar um registro TXT do Google para verificação de site a todos os subdomínios usados para enviar emails a endereços do Gmail por meio do Painel de controle.
 feature: Control Panel
 kt: 4744
 thumbnail: 32369.jpg

@@ -19,6 +19,6 @@ ht-degree: 100%
 
 # Gerar e instalar chaves GPG para criptografia de dados
 
-O Painel de controle do Campaign permite criptografar dados provenientes da instância do Adobe Campaign. Saiba como gerar e instalar um par de chaves públicas/privadas em uma instância do [!DNL Campaign] específica para a criptografia de dados de saída.
+O Painel de controle permite criptografar dados provenientes da instância do Adobe Campaign. Saiba como gerar e instalar um par de chaves públicas/privadas em uma instância do [!DNL Campaign] específica para a criptografia de dados de saída.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36386?quality=12)

@@ -1,6 +1,6 @@
 ---
-title: lista de permissões um intervalo IP
-description: Saiba como adicionar um intervalo de endereços IP à  de lista de permissões.
+title: ➡ Incluir na lista de permissões um intervalo IP
+description: Lista de permissões Saiba como adicionar um intervalo de endereços IP ao arquivo.
 feature: Control Panel
 kt: 6430
 thumbnail: 41775.jpg
@@ -18,10 +18,10 @@ ht-degree: 0%
 
 ---
 
-# lista de permissões um intervalo IP
+# ➡ Incluir na lista de permissões um intervalo IP
 
-Para se conectar a um servidor por meio de um aplicativo cliente ou de uma API, é necessário configurar uma chave SSH pública e adicionar o endereço IP que se conecta ao servidor SFTP na lista de permissões.
+Lista de permissões Para se conectar a um servidor por meio de um aplicativo cliente ou de uma API, é necessário configurar uma chave SSH pública e adicionar o endereço IP que se conecta ao servidor SFTP para o arquivo.
 
-Saiba como adicionar um intervalo de endereços IP à  de lista de permissões.
+Lista de permissões Saiba como adicionar um intervalo de endereços IP ao arquivo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41775?quality=12)

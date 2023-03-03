@@ -20,7 +20,7 @@ ht-degree: 100%
 
 # Monitorar a capacidade do servidor
 
-O Painel de controle do Campaign permite monitorar e gerenciar o armazenamento SFTP por instância.
+O Painel de controle permite monitorar e gerenciar o armazenamento SFTP por instância.
 
 ## Acessar o gerenciamento de subdomínio do [!UICONTROL Control Panel]
 

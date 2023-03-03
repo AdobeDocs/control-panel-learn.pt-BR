@@ -1,6 +1,6 @@
 ---
-title: Introdução ao Painel de controle do Campaign
-description: Saiba quais são os pré-requisitos para trabalhar com o Painel de controle do Campaign e como acessá-lo.
+title: Introdução ao Painel de controle
+description: Saiba quais são os pré-requisitos para trabalhar com o Painel de controle e como acessá-lo.
 feature: Control Panel
 kt: 6388
 thumbnail: kt-6385.jpg
@@ -25,11 +25,11 @@ ht-degree: 100%
 
 O [!UICONTROL Control Panel] permite que os administradores do Adobe Campaign monitorem os principais ativos e executem tarefas administrativas, como gerenciar o armazenamento [!DNL SFTP] por instância, gerenciar chaves [!DNL GPG] ou [!UICONTROL subdomains] e [!UICONTROL certificates].
 
-Este artigo explica quais são os pré-requisitos para trabalhar com o Painel de controle do Campaign e como acessá-lo.
+Este artigo explica quais são os pré-requisitos para trabalhar com o Painel de controle e como acessá-lo.
 
 ## Acesso ao [!UICONTROL Control Panel]
 
-Para acessar o Painel de controle do Campaign, vá até a página inicial da Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+Para acessar o Painel de controle, vá até a página inicial da Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
@@ -59,4 +59,4 @@ O vídeo a seguir explica como adicionar um administrador a uma instância do Ca
 
 [Saiba mais](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=pt-BR#discover-control-panel) sobre o gerenciamento de permissões.
 
-Consulte a [Central de ajuda do Painel de controle do Campaign](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=br) para conferir recursos adicionais.
+Consulte a [Central de ajuda do Painel de controle](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=br) para conferir recursos adicionais.

@@ -1,7 +1,7 @@
 ---
-title: Painel de controle do Campaign - Visão geral
+title: Painel de controle - Visão geral
 description: O Painel de controle do Adobe Campaign permite que os administradores do Adobe Campaign monitorem ativos principais e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância, gerenciar chaves GPG ou subdomínios e certificados.
-landing-page-description: O Painel de controle do Campaign permite que os administradores do Campaign monitorem ativos principais e executem tarefas administrativas, como gerenciar o armazenamento SFTP, chaves GPG ou subdomínios e certificados.
+landing-page-description: O Painel de controle permite que os administradores do Campaign monitorem ativos principais e executem tarefas administrativas, como gerenciar o armazenamento SFTP, chaves GPG ou subdomínios e certificados.
 feature: Control Panel
 doc-type: feature video
 activity: use
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 ---
 
-# Visão geral do Painel de controle do Campaign
+# Visão geral do Painel de controle
 
 O Painel de controle do Adobe Campaign permite que os administradores do Campaign monitorem ativos principais e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância, gerenciar chaves GPG ou subdomínios e certificados.
 
@@ -24,7 +24,7 @@ O Painel de controle do Adobe Campaign permite que os administradores do Campaig
 
 ## Novidades
 
-* **[Painel de controle do Campaign para modelos de hospedagem híbrida](/help/control-panel-for-hybrid-hosting-models.md)**
+* **[Painel de controle para modelos de hospedagem híbrida](/help/control-panel-for-hybrid-hosting-models.md)**
 
    *Saiba como ativar o Painel de controle para modelos de hospedagem híbrida do Adobe Campaign, acessar o Painel de controle e desbloquear os principais recursos.*
 
@@ -89,7 +89,7 @@ Consulte as [Notas de versão](https://experienceleague.adobe.com/docs/control-p
     </a>
     </div>
     <p>
-    <em>Saiba como se conectar ao servidor SFTP usando um aplicativo SFTP cliente, usando as chaves que você armazenou no Painel de controle do Campaign. </em>
+    <em>Saiba como se conectar ao servidor SFTP usando um aplicativo SFTP cliente, usando as chaves que você armazenou no Painel de controle. </em>
     <p>
   </td>
 </tr>
@@ -99,4 +99,4 @@ Consulte as [Notas de versão](https://experienceleague.adobe.com/docs/control-p
 
 ## Recursos adicionais
 
-* [Centro de ajuda do Painel de controle do Campaign](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=br)
+* [Centro de ajuda do Painel de controle](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=br)

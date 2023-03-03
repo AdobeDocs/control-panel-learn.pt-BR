@@ -1,6 +1,6 @@
 ---
 title: Gerenciamento de chaves GPG – Visão geral
-description: Saiba como gerar e instalar um par de chaves públicas/privadas em uma instância do  [!DNL Campaign]  específica para a criptografia de dados de saída. Saiba como importar e instalar uma chave pública em um [!DNL Campaign] para descriptografar dados de entrada.
+description: Saiba como gerar e instalar um par de chaves públicas/privadas em uma instância do  [!DNL Campaign]  específica para a criptografia de dados de saída. Entender como importar e instalar uma chave pública em um [!DNL Campaign] para descriptografar dados de entrada.
 feature: Control Panel
 team: TM
 role: Admin
@@ -15,8 +15,8 @@ ht-degree: 73%
 
 # Gerenciamento de chaves GPG – Visão geral
 
-O GPG (GnuPG) criptografa mensagens usando pares de chaves individuais assimétricos. Para implementar a criptografia GPG com [!DNL Campaign], as chaves GPG devem ser instaladas e/ou geradas em uma instância de marketing por um usuário administrador, diretamente do Painel de controle do Campaign.
-Saiba como gerar e instalar um par de chaves públicas/privadas em uma instância do [!DNL Campaign] específica para a criptografia de dados de saída. Saiba como importar e instalar uma chave pública em um [!DNL Campaign] para descriptografar dados de entrada.
+O GPG (GnuPG) criptografa mensagens usando pares de chaves individuais assimétricos. Para implementar a criptografia GPG com [!DNL Campaign], as chaves GPG devem ser instaladas e/ou geradas em uma instância de marketing por um usuário administrador, diretamente do Painel de controle.
+Saiba como gerar e instalar um par de chaves públicas/privadas em uma instância do [!DNL Campaign] específica para a criptografia de dados de saída. Entender como importar e instalar uma chave pública em um [!DNL Campaign] para descriptografar dados de entrada.
 
 * [Gerar e instalar chaves GPG para criptografia de dados](./generate-and-install-gpg-keys-for-data-encryption.md)
 * [Usar uma chave GPG para criptografar dados](./use-a-gpg-key-to-encrypt-data.md)

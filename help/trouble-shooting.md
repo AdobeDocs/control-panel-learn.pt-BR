@@ -1,6 +1,6 @@
 ---
-title: Solução de problemas do Painel de controle do Campaign
-description: Saiba como solucionar problemas do Painel de controle do Campaign.
+title: Solução de problemas do Painel de controle
+description: Saiba como solucionar problemas do Painel de controle.
 feature: Control Panel
 kt: 2938
 doc-type: article
@@ -53,8 +53,8 @@ o administrador precisa adicionar o usuário ao Perfil de produto _Campaign-xxx-
 
 ### Documentação útil
 
-* [Conheça o Painel de controle do Campaign](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=br)
-* [Gerenciamento de permissões para o [!UICONTROL Control Panel]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
+* [Conheça o Painel de controle](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=br)
+* [Gerenciamento de permissões para o [!UICONTROL Control Panel]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=br)
 
 ## Estabelecer conexão com o servidor SFTP (cliente ou API)
 
@@ -66,4 +66,4 @@ A conexão com servidores SFTP requer:
 
 ### Documentação útil {#helpful-docs}
 
-* [Fazer logon no servidor SFTP](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
+* [Fazer logon no servidor SFTP](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=br)

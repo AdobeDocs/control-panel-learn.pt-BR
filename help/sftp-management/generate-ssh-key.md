@@ -1,6 +1,6 @@
 ---
 title: Gerar uma chave SSH
-description: Saiba como gerar uma chave SSH usando um terminal e como armazenar a versão pública da chave no Painel de controle do Campaign.
+description: Saiba como gerar uma chave SSH usando um terminal e como armazenar a versão pública da chave no Painel de controle.
 feature: Control Panel
 kt: 2923
 thumbnail: 27259.jpg
@@ -19,11 +19,11 @@ ht-degree: 82%
 
 # Gerar uma chave SSH
 
-Você deve ser capaz de gerar uma chave SSH para adicioná-la ao Painel de controle do Campaign.
+Você deve poder gerar uma chave SSH para adicioná-la ao Painel de controle do Campaign.
 
-## Acesso ao gerenciamento SFTP do Painel de controle do Campaign
+## Acesso ao gerenciamento SFTP do Painel de controle
 
-Para acessar o gerenciamento SFTP no Painel de controle do Campaign, acesse:
+Para acessar o gerenciamento SFTP no Painel de controle, acesse:
 
 * [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: **[!DNL Campaign]** > **Control Panel** card > **SFTP** card
 
@@ -32,6 +32,6 @@ Para acessar o gerenciamento SFTP no Painel de controle do Campaign, acesse:
 
 ## Como gerar uma chave SSH
 
-Saiba como gerar uma chave SSH usando um terminal e como armazenar a versão pública da chave no Painel de controle do Campaign.
+Saiba como gerar uma chave SSH usando um terminal e como armazenar a versão pública da chave no Painel de controle.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)

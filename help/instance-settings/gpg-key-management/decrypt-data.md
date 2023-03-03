@@ -19,7 +19,7 @@ ht-degree: 94%
 
 # Descriptografar dados
 
-O Painel de controle do Campaign permite descriptografar dados externos que entram em suas instâncias do Adobe Campaign usando um par de chaves públicas/privadas.
+O Painel de controle permite descriptografar dados externos que entram em suas instâncias do Adobe Campaign usando um par de chaves públicas/privadas.
 Saiba como criar uma chave pública, importá-la e instalá-la em uma instância do [!DNL Campaign] para descriptografar dados de entrada.
 
 ## Adobe Campaign Standard

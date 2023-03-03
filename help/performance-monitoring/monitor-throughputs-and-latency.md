@@ -26,7 +26,7 @@ Saiba como monitorar as taxas de transferência de entrega e as latências de me
 
 ## Recursos adicionais
 
-* [Documentação do Painel de controle do Campaign sobre monitoramento de taxa de transferência e latência](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/thoughputs-latencies.html?lang=pt-BR#)
+* [Documentação do Painel de controle sobre monitoramento de taxa de transferência e latência](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/thoughputs-latencies.html?lang=pt-BR#)
 * [Painéis de entrega prontos para uso](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html?lang=pt-BR)
 * [Relatórios de mensagens transacionais de acesso prontos para uso (somente Campaign v7)](https://experienceleague.adobe.com/docs/campaign-classic/using/transactional-messaging/reports/about-transactional-messaging-reports.html?lang=pt-BR)
 * [Práticas recomendadas de delivery](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices.html?lang=pt-BR)
