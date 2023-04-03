@@ -11,7 +11,7 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: 49e2dae4-f583-40c3-b388-5333932f5084
-source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
+source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 43%
@@ -20,10 +20,10 @@ ht-degree: 43%
 
 # Monitorar bancos de dados
 
-Todos os ativos, workflows e dados da instância do Campaign são armazenados no banco de dados. O banco de dados que atinge a capacidade máxima pode causar problemas na instância (incapacidade de fazer logon, enviar emails etc.). Portanto, é essencial monitorar regularmente os bancos de dados das instâncias para garantir o melhor desempenho.
+Todos os ativos, workflows e dados da instância do Campaign são armazenados no banco de dados. O banco de dados que atinge sua capacidade máxima pode levar a problemas com sua instância (incapacidade de fazer logon, enviar emails e assim por diante). Portanto, é essencial monitorar regularmente os bancos de dados das instâncias para garantir o melhor desempenho.
 
 Saiba como monitorar o uso do banco de dados das instâncias com o [!DNL Control Panel].
 
->[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12&learn=0n)
 
-Para obter mais informações sobre o monitoramento de banco de dados, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/database-monitoring.html?lang=en).
+Para obter mais informações sobre o monitoramento de banco de dados, consulte o [documentação do produto](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/database-monitoring.html?lang=en).

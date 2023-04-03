@@ -10,7 +10,7 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 8b2ff6b2-6836-4ab1-953b-2a9c81ec576d
-source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
+source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 91%
@@ -23,8 +23,8 @@ Saiba como exportar dados usando uma chave GPG instalada no Painel de controle
 
 ## Adobe Campaign Standard
 
->[!VIDEO](https://video.tv.adobe.com/v/36380?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/36380?quality=12&learn=0n)
 
 ## Adobe Campaign V7/V8
 
->[!VIDEO](https://video.tv.adobe.com/v/36399?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/36399?quality=12&learn=0n)

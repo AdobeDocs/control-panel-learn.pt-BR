@@ -10,7 +10,7 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 51de34f4-5480-459b-b8b6-6637c7bd3b89
-source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
+source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 94%
@@ -24,8 +24,8 @@ Saiba como criar uma chave pública, importá-la e instalá-la em uma instância
 
 ## Adobe Campaign Standard
 
->[!VIDEO](https://video.tv.adobe.com/v/35753?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/35753?quality=12&learn=0n)
 
 ## Adobe Campaign V7/V8
 
->[!VIDEO](https://video.tv.adobe.com/v/36482?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/36482?quality=12&learn=0n)
