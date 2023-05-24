@@ -19,7 +19,7 @@ ht-degree: 82%
 
 # Gerar uma chave SSH
 
-Você deve ser capaz de gerar uma chave SSH para adicioná-la ao Painel de controle do Campaign.
+Você deve poder gerar uma chave SSH para adicioná-la ao Painel de controle do Campaign.
 
 ## Acesso ao gerenciamento SFTP do Painel de controle
 
