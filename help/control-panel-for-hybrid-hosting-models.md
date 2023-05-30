@@ -11,9 +11,9 @@ role: Admin
 level: Beginner
 exl-id: bdb54553-23e6-4a32-9fc8-47a313fc7179
 source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Saiba como ativar o Painel de controle para modelos de hospedagem híbrida do Ad
 
 >[!VIDEO](https://video.tv.adobe.com/v/344502?quality=12&learn=0n)
 
-Para obter mais informações, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/external-accounts.html).
+Para obter mais informações, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/external-accounts.html?lang=pt-BR).
