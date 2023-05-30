@@ -11,9 +11,9 @@ role: Admin
 level: Experienced
 exl-id: 8a5c3c16-c7b4-413a-8606-bf5045f24ef4
 source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -37,4 +37,4 @@ O vídeo abaixo demonstra como delegar subdomínios.
 
 *Delegar subdomínios (05:07 min)*
 
-Para obter mais informações sobre como renovar um certificado SSL de subdomínio, consulte o [documentação do produto](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=pt-BR).
+Para obter mais informações sobre como renovar um certificado SSL de subdomínio, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=pt-BR).
