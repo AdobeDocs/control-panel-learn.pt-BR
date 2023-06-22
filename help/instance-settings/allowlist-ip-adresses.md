@@ -2,7 +2,7 @@
 title: Endereços de IP da lista de permissões
 description: Saiba como adicionar e remover intervalos de IP das listas de permissões das instâncias do Adobe Campaign usando o painel de controle.
 feature: Control Panel
-kt: 3479
+jira: KT-3479
 thumbnail: 28726.jpg
 doc-type: feature video
 activity: use
@@ -10,8 +10,8 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 09d2677e-2946-440b-9df6-9824355c58e1
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
-workflow-type: ht
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
+workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 100%
 

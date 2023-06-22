@@ -2,7 +2,7 @@
 title: Monitorar taxas de transferência e latência
 description: Saiba como monitorar as taxas de transferência de entrega e as latências de mensagem transacional da instância do Campaign.
 feature: Control Panel
-kt: 10526
+jira: KT-10526
 thumbnail: 344310.jpg
 doc-type: feature video
 audience: administrator
@@ -11,8 +11,8 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 714f9435-c3ae-4307-aa70-a810bcce7b48
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
-workflow-type: ht
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
+workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 100%
 

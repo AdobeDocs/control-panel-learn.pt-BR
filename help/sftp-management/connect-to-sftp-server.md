@@ -2,7 +2,7 @@
 title: Conectar-se a um servidor SFTP
 description: Saiba como se conectar ao servidor SFTP usando um aplicativo SFTP cliente com as chaves que você armazenou no Painel de controle.
 feature: Control Panel
-kt: 2924
+jira: KT-2924
 thumbnail: 27263.jpg
 doc-type: feature video
 activity: use
@@ -10,8 +10,8 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 6c724a09-5083-4737-ba2c-29e021d16fc9
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
-workflow-type: ht
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
+workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ Para acessar o gerenciamento SFTP no Painel de controle, acesse:
 
 * [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: **[!DNL Campaign]** > **Control Panel** card > **SFTP** card
 
-   ou
+  ou
 * Pelo URL: [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
 
 ## Como se conectar a um servidor SFTP

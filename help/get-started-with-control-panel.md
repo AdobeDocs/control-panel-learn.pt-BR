@@ -2,7 +2,7 @@
 title: Introdução ao Painel de controle
 description: Saiba quais são os pré-requisitos para trabalhar com o Painel de controle e como acessá-lo.
 feature: Control Panel
-kt: 6388
+jira: KT-6388
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
@@ -11,8 +11,8 @@ role: Admin
 level: Experienced
 recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
-workflow-type: ht
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
+workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 100%
 
@@ -33,10 +33,10 @@ Para acessar o Painel de controle, vá até a página inicial da Experience Clou
 
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
-   ou
+  ou
 * **[!UICONTROL Experience Cloud Home]**  > [!UICONTROL Solution picker]: **Campaign** > **[!UICONTROL Control Panel]card**
 
-   ou
+  ou
 
 * Diretamente pelo URL: [https://experience.adobe.com/#/controlpanel](https://experience.adobe.com/#/controlpanel)
 
