@@ -11,10 +11,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 5687281e-966a-4643-8bd3-1f930b2e52a4
-source-git-commit: af05bde1295913c93388dd014462e32afb081669
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
+workflow-type: tm+mt
+source-wordcount: '80'
+ht-degree: 97%
 
 ---
 
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Saiba como monitorar o uso de armazenamento temporário dos workflows e onde definir as configurações do workflow para evitar problemas no banco de dados ou no workflow na sua instância.
 
->[!VIDEO](https://video.tv.adobe.com/v/344309/?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/344309/?learn=on){transcript=true}
 
 Para obter mais informações, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/workflow-monitoring.html?lang=pt-BR) e as [práticas recomendadas de workflow](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=pt-BR).

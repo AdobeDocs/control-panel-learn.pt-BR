@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
-source-git-commit: af05bde1295913c93388dd014462e32afb081669
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
+workflow-type: tm+mt
+source-wordcount: '273'
+ht-degree: 98%
 
 ---
 
@@ -40,7 +40,7 @@ A Solicitação de assinatura de certificado (CSR) é necessária para a aquisi�
 
 O vídeo abaixo descreve como gerar uma Solicitação de assinatura de certificado no Painel de controle.
 
->[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/31317?learn=on){transcript=true}
 
 *Gerar Solicitações de assinatura de certificado (02:36 min)*
 
@@ -67,7 +67,7 @@ Após obter o certificado SSL, será necessário instalá-lo para os subdomínio
 
 O vídeo abaixo explica como instalar os certificados SSL no [!UICONTROL Control Panel].
 
->[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/31166?learn=on){transcript=true}
 
 *Instalar certificados SSL (01:25 min)*
 

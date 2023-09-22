@@ -11,10 +11,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 714f9435-c3ae-4307-aa70-a810bcce7b48
-source-git-commit: af05bde1295913c93388dd014462e32afb081669
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
+workflow-type: tm+mt
+source-wordcount: '101'
+ht-degree: 98%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Saiba como monitorar as taxas de transferência de entrega e as latências de mensagem transacional da instância do Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/344310/?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/344310/?learn=on){transcript=true}
 
 ## Recursos adicionais
 

@@ -11,10 +11,10 @@ role: Admin
 level: Experienced
 recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
-source-git-commit: af05bde1295913c93388dd014462e32afb081669
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
+workflow-type: tm+mt
+source-wordcount: '200'
+ht-degree: 98%
 
 ---
 
@@ -48,14 +48,14 @@ Antes de começar, conclua os seguintes pré-requisitos:
 
 O vídeo a seguir descreve onde você pode pesquisar o [!DNL IMS org ID] da sua instância.
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
 
 ### Direitos de administrador
 
 Os direitos de administrador são necessários para acessar o [!UICONTROL Control Panel].
 O vídeo a seguir explica como adicionar um administrador a uma instância do Campaign
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
 
 [Saiba mais](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=pt-BR#discover-control-panel) sobre o gerenciamento de permissões.
 

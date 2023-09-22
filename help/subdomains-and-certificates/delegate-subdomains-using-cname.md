@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: f7d5ff24-6181-4212-9c0a-b146a621cc0f
-source-git-commit: af05bde1295913c93388dd014462e32afb081669
+source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 100%
+source-wordcount: '56'
+ht-degree: 96%
 
 ---
 
@@ -23,4 +23,4 @@ Para começar a enviar emails ou publicar landing pages com o Adobe Campaign, é
 
 Saiba como configurar e enviar um subdomínio usando CNAMEs no Painel de controle.
 
->[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/326612?learn=on){transcript=true}
