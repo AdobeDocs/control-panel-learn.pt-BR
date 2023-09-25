@@ -7,8 +7,9 @@ feature-set: Campaign
 feature: Control Panel
 role: Admin
 level: Experienced
-source-git-commit: 8844dcdb67c0ec1f27a677edbca88bc4b2d0ee97
-workflow-type: ht
+auto-video-transcripts: true
+source-git-commit: d2b06b5280e0bd24e3730f70857831836efca03b
+workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 100%
 
