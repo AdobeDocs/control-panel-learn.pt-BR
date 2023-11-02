@@ -12,8 +12,8 @@ level: Experienced
 exl-id: 09d2677e-2946-440b-9df6-9824355c58e1
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 98%
+source-wordcount: '186'
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ O Painel de controle permite configurar novas conexões para suas instâncias at
 
 Para acessar o gerenciamento de subdomínio no Painel de controle, acesse:
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** card > **Instances Settings** card
+* [Página inicial da Experience Cloud](https://experience.adobe.com/#/home) > Seletor de solução: **[!DNL Campaign]** > **[!UICONTROL cartão]** Painel de controle > **cartão** Configurações de instâncias
 ou
 * Diretamente do URL: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 

@@ -11,7 +11,7 @@ role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
 source-git-commit: 1e3ad983e8879252715ad4616c5541154db8eb2b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '315'
 ht-degree: 100%
 
@@ -26,16 +26,13 @@ O Painel de controle do Adobe Campaign permite que os administradores do Campaig
 ## Novidades
 
 * **[Painel de controle para modelos de hospedagem híbrida](/help/control-panel-for-hybrid-hosting-models.md)**
-
-   *Saiba como ativar o Painel de controle para modelos de hospedagem híbrida do Adobe Campaign, acessar o Painel de controle e desbloquear os principais recursos.*
+  *Saiba como ativar o Painel de controle para modelos de hospedagem híbrida do Adobe Campaign, acessar o Painel de controle e desbloquear os principais recursos.*
 
 * **[Monitorar workflows](/help/performance-monitoring/monitor-workflows.md)**
-
-   *Saiba como monitorar o uso de armazenamento temporário dos workflows e onde definir as configurações do workflow para evitar problemas no banco de dados ou no workflow na sua instância.*
+  *Saiba como monitorar o uso de armazenamento temporário dos workflows e onde definir as configurações do workflow para evitar problemas no banco de dados ou no workflow na sua instância.*
 
 * **[Monitorar taxas de transferência e latência](/help/performance-monitoring/monitor-throughputs-and-latency.md)**
-
-   *Saiba como monitorar as taxas de transferência de entrega e as latências de mensagem transacional da instância do Campaign.*
+  *Saiba como monitorar as taxas de transferência de entrega e as latências de mensagem transacional da instância do Campaign.*
 
 Consulte as [Notas de versão](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=pt-BR) para obter mais informações sobre as versões mais recentes do produto.
 
