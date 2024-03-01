@@ -1,15 +1,15 @@
 ---
 cloud: Experience Cloud
-solution: Experience Cloud
-product: experience cloud
+solution: Campaign
+product: Campaign
 type: Tutorial
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/control-panel-learn.pt-BR
 index: true
-source-git-commit: b75d97d5f21387f194400ba01b2921b2891827a4
+source-git-commit: d2f77f67d641c105a147b832e224a88412372229
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 93%
+source-wordcount: '53'
+ht-degree: 98%
 
 ---
 
