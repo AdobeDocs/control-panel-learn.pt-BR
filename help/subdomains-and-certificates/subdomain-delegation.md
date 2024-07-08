@@ -12,21 +12,22 @@ role: Admin
 level: Experienced
 exl-id: 8a5c3c16-c7b4-413a-8606-bf5045f24ef4
 source-git-commit: b1f8f620ed5f9f5a0ee2165041a036728943fc84
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
 # Delegação de subdomínio completa
 
-Adobe Campaign [!UICONTROL Painel de controle do Campaign] permite delegar totalmente um subdomínio ao Adobe Campaign.
+O [!UICONTROL Painel de controle] do Adobe Campaign permite delegar totalmente um subdomínio ao Adobe Campaign.
 
 ## Acesso ao gerenciamento de subdomínio do [!UICONTROL Painel de controle]
 
 Para acessar o Gerenciamento de subdomínio no [!UICONTROL Painel de controle], acesse:
 
-* [Página inicial do Experience Cloud](https://experience.adobe.com/#/home) > Seletor de soluções: **[!DNL Campaign]** > **[!UICONTROL Painel de controle do Campaign]** cartão > **Subdomínios e certificados** cartão ou
+* [Página inicial da Experience Cloud](https://experience.adobe.com/#/home) > Seletor de solução: **[!DNL Campaign]** > cartão **[!UICONTROL Painel de controle]** > cartão **Subdomínios e certificados**
+ou
 * Diretamente do URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
 ## Como delegar subdomínios

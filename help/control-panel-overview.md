@@ -1,6 +1,6 @@
 ---
-title: Tutoriais do Painel de controle
-description: O Painel de controle do Adobe Campaign permite que os administradores do Adobe Campaign monitorem ativos principais e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância, gerenciar chaves GPG ou subdomínios e certificados.
+title: Tutoriais do painel de controle
+description: O painel de controle do Adobe Campaign permite que os administradores do Adobe Campaign monitorem os ativos principais e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância, gerenciar chaves GPG ou subdomínios e certificados.
 landing-page-description: O Painel de controle permite que os administradores do Campaign monitorem ativos principais e executem tarefas administrativas, como gerenciar o armazenamento SFTP, chaves GPG ou subdomínios e certificados.
 short-description: O Painel de controle permite que os administradores do Campaign monitorem ativos principais e executem tarefas administrativas, como o gerenciamento do armazenamento SFTP, das chaves GPG ou dos subdomínios e certificados.
 feature: Control Panel
@@ -12,15 +12,15 @@ level: Experienced
 recommendations: noDisplay, noCatalog
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
 source-git-commit: b84945a1afa1068bdb58947cd14f75d0ec29a0b1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '219'
 ht-degree: 100%
 
 ---
 
-# Tutoriais do Painel de controle
+# Tutoriais do painel de controle
 
-O Painel de controle do Adobe Campaign permite que os administradores do Adobe Campaign monitorem ativos principais e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância, gerenciar chaves GPG ou subdomínios e certificados.
+O painel de controle do Adobe Campaign permite que os administradores do Adobe Campaign monitorem os ativos principais e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância, gerenciar chaves GPG ou subdomínios e certificados.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -81,4 +81,4 @@ O Painel de controle do Adobe Campaign permite que os administradores do Adobe C
 
 ## Recursos adicionais
 
-* [Centro de ajuda do Painel de controle](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=br)
+* [Centro de ajuda do Painel de controle](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=pt-BR)

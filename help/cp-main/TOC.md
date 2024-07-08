@@ -1,7 +1,7 @@
 ---
 user-guide-title: Tutoriais do painel de controle do Adobe Campaign
 user-guide-description: Saiba como monitorar os principais ativos das instâncias do Adobe Campaign e executar tarefas administrativas no Painel de controle.
-breadcrumb-title: Tutoriais do Painel de controle
+breadcrumb-title: Tutoriais do painel de controle
 index: true
 feature-set: Campaign
 feature: Control Panel
@@ -9,16 +9,16 @@ role: Admin
 level: Experienced
 auto-video-transcripts: true
 source-git-commit: ab0593ed8c17ecb3c069a5deda990913cf43d69b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
 
 # Tutoriais do Painel de controle do Adobe Campaign {#tutorials}
 
-+ [Tutoriais do Painel de controle](/help/control-panel-overview.md)
++ [Tutoriais do painel de controle](/help/control-panel-overview.md)
 + [Introdução ao Painel de controle](/help/get-started-with-control-panel.md)
 + [Painel de controle para modelos de hospedagem híbrida](/help/control-panel-for-hybrid-hosting-models.md)
 + Gerenciamento de SFTP {#sftp-management}
