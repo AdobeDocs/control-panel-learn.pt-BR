@@ -12,14 +12,14 @@ level: Experienced
 exl-id: 86cdb284-a5a7-4ad4-a1dc-d203f75be948
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 70%
+source-wordcount: '45'
+ht-degree: 51%
 
 ---
 
 # Adicionar permissões de URL
 
-Saiba como estabelecer uma conexão da sua instância do [!DNL Adobe Campaign] com um URL externo.
+Saiba como estabelecer uma conexão da instância do [!DNL Adobe Campaign] com uma URL externa.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28149?learn=on){transcript=true}
 
