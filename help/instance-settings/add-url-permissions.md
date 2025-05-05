@@ -23,4 +23,4 @@ Saiba como estabelecer uma conexão da instância do [!DNL Adobe Campaign] com u
 
 >[!VIDEO](https://video.tv.adobe.com/v/28149?learn=on){transcript=true}
 
-Para obter mais informações, consulte [a documentação do produto](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/url-permissions.html).
+Para obter mais informações, consulte [a documentação do produto](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/url-permissions.html?lang=pt-BR).

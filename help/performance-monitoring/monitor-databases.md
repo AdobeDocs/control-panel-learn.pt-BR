@@ -26,4 +26,4 @@ Saiba como monitorar o uso do banco de dados das instâncias com o [!DNL Control
 
 >[!VIDEO](https://video.tv.adobe.com/v/327175?learn=on){transcript=true}
 
-Para obter mais informações sobre o monitoramento de banco de dados, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/database-monitoring.html?lang=en).
+Para obter mais informações sobre o monitoramento de banco de dados, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/database-monitoring.html?lang=pt-BR).
