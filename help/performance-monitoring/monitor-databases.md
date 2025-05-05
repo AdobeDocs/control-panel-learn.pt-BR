@@ -24,6 +24,6 @@ Todos os ativos, workflows e dados da instância do Campaign são armazenados no
 
 Saiba como monitorar o uso do banco de dados das instâncias com o [!DNL Control Panel].
 
->[!VIDEO](https://video.tv.adobe.com/v/327175?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448845?learn=on&captions=por_br){transcript=true}
 
 Para obter mais informações sobre o monitoramento de banco de dados, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/database-monitoring.html?lang=pt-BR).

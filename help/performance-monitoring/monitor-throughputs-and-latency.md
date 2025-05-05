@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Saiba como monitorar as taxas de transferência de entrega e as latências de mensagem transacional da instância do Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/344310/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444742/?learn=on&captions=por_br){transcript=true}
 
 ## Recursos adicionais
 

@@ -24,8 +24,8 @@ Saiba como criar uma chave pública, importá-la e instalá-la em uma instância
 
 ## Adobe Campaign Standard
 
->[!VIDEO](https://video.tv.adobe.com/v/35753?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/41354?learn=on&captions=por_br){transcript=true}
 
 ## Adobe Campaign V7/V8
 
->[!VIDEO](https://video.tv.adobe.com/v/36482?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/41363?learn=on&captions=por_br){transcript=true}

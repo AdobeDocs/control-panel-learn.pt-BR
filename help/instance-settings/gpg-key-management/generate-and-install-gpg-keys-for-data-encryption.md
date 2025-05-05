@@ -21,4 +21,4 @@ ht-degree: 100%
 
 O Painel de controle permite criptografar dados provenientes da instância do Adobe Campaign. Saiba como gerar e instalar um par de chaves públicas/privadas em uma instância do [!DNL Campaign] específica para a criptografia de dados de saída.
 
->[!VIDEO](https://video.tv.adobe.com/v/36386?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327887?learn=on&captions=por_br){transcript=true}

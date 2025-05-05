@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Saiba como monitorar o uso de armazenamento temporário dos workflows e onde definir as configurações do workflow para evitar problemas no banco de dados ou no workflow na sua instância.
 
->[!VIDEO](https://video.tv.adobe.com/v/344309/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3417367/?learn=on&captions=por_br){transcript=true}
 
 Para obter mais informações, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/workflow-monitoring.html?lang=pt-BR) e as [práticas recomendadas de workflow](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=pt-BR).

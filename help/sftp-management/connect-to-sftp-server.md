@@ -38,4 +38,4 @@ A conexão com servidores SFTP requer:
 
 Este vídeo explica como se conectar ao servidor SFTP usando um aplicativo SFTP cliente com as chaves que você armazenou no Painel de controle.
 
->[!VIDEO](https://video.tv.adobe.com/v/27263?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34803?learn=on&captions=por_br){transcript=true}

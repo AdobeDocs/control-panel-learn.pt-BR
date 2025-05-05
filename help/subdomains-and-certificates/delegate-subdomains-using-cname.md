@@ -23,4 +23,4 @@ Para começar a enviar emails ou publicar landing pages com o Adobe Campaign, é
 
 Saiba como configurar e enviar um subdomínio usando CNAMEs no Painel de controle.
 
->[!VIDEO](https://video.tv.adobe.com/v/326612?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450129?learn=on&captions=por_br){transcript=true}

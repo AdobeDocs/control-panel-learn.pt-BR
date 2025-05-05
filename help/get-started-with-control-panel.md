@@ -48,14 +48,14 @@ Antes de começar, conclua os seguintes pré-requisitos:
 
 O vídeo a seguir descreve onde você pode pesquisar o [!DNL IMS org ID] da sua instância.
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34937?learn=on&captions=por_br){transcript=true}
 
 ### Direitos de administrador
 
 Direitos de administrador são necessários para acessar o [!UICONTROL Painel de controle].
 O vídeo a seguir explica como adicionar um administrador a uma instância do Campaign
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34805?learn=on&captions=por_br){transcript=true}
 
 [Saiba mais](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=pt-BR#discover-control-panel) sobre o gerenciamento de permissões.
 

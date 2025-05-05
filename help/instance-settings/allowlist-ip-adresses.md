@@ -36,6 +36,6 @@ ou
 
 Saiba como adicionar e remover intervalos de IP das listas de permissões das instâncias do Adobe Campaign usando o painel de controle.
 
->[!VIDEO](https://video.tv.adobe.com/v/28726?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31678?learn=on&captions=por_br){transcript=true}
 
 Para obter mais informações sobre a lista de permissões de IP, consulte a [documentação detalhada do produto](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=pt-BR).

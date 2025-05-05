@@ -34,4 +34,4 @@ Para acessar o gerenciamento SFTP no Painel de controle, acesse:
 
 Saiba como gerar uma chave SSH usando um terminal e como armazenar a versão pública da chave no Painel de controle.
 
->[!VIDEO](https://video.tv.adobe.com/v/27259?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34804?learn=on&captions=por_br){transcript=true}
