@@ -11,7 +11,7 @@ auto-video-transcripts: true
 source-git-commit: ab0593ed8c17ecb3c069a5deda990913cf43d69b
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -41,6 +41,6 @@ ht-degree: 100%
       + [Descriptografar dados](/help/instance-settings/gpg-key-management/decrypt-data.md)
 + Monitoramento de desempenho {#performance-monitoring}
    + [Monitorar bancos de dados](/help/performance-monitoring/monitor-databases.md)
-   + [Monitorar workflows](/help/performance-monitoring/monitor-workflows.md)
+   + [Monitorar fluxos de trabalho](/help/performance-monitoring/monitor-workflows.md)
    + [Monitorar taxas de transferência e latência](/help/performance-monitoring/monitor-throughputs-and-latency.md)
 + [Solução de problemas do Painel de controle](/help/trouble-shooting.md)
