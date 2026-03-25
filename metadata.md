@@ -6,7 +6,7 @@ landing-page-name: Campaign
 landing-page-breadcrumb-title: Campaign
 type: Tutorial
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/control-panel-learn.en
+git-repo: https://github.com/AdobeDocs/control-panel-learn.pt-BR
 index: true
 source-git-commit: 87443cf600da77eb3b39a2a28806bf71d091b808
 workflow-type: tm+mt
