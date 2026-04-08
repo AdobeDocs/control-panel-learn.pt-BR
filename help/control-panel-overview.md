@@ -12,8 +12,8 @@ level: Experienced
 recommendations: noDisplay, noCatalog
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
 source-git-commit: b84945a1afa1068bdb58947cd14f75d0ec29a0b1
-workflow-type: tm+mt
-source-wordcount: '219'
+workflow-type: ht
+source-wordcount: '229'
 ht-degree: 100%
 
 ---
@@ -58,7 +58,7 @@ O painel de controle do Adobe Campaign permite que os administradores do Adobe C
     </a>
     </div>
     <p>
-    <em> Saiba como adicionar registro de verificação do site Google TXT a todos os seus subdomínios usados para enviar emails para endereços GMAIL por meio do Painel de controle do Campaign.</em>
+    <em> Saiba como adicionar registro de verificação de TXT de um site Google a todos os seus subdomínios usados para enviar emails para endereços GMAIL por meio do Painel de controle do Campaign.</em>
     <p>
   </td>
   <td>
@@ -81,4 +81,4 @@ O painel de controle do Adobe Campaign permite que os administradores do Adobe C
 
 ## Recursos adicionais
 
-* [Centro de ajuda do Painel de controle](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=pt-BR)
+* [Centro de ajuda do Painel de controle](https://experienceleague.adobe.com/pt-br/docs/control-panel/using/control-panel-home)

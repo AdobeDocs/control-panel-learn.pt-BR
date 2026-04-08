@@ -12,18 +12,18 @@ level: Experienced
 recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 83%
+workflow-type: ht
+source-wordcount: '228'
+ht-degree: 100%
 
 ---
 
-# Introdução ao [!UICONTROL Painel de Controle] {#control-panel}
+# Introdução ao [!UICONTROL Painel de controle] {#control-panel}
 
 >[!CAUTION]
-> Para o Campaign v7, restrições de implantação se aplicam. [Saiba mais](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=pt-BR#v7-restrictions)
+> Para o Campaign v7, aplicam-se restrições de implantação. [Saiba mais](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=pt-BR#v7-restrictions)
 
-O [!UICONTROL Painel de Controle] permite que os administradores do Adobe Campaign monitorem ativos principais e executem tarefas administrativas, como gerenciar o armazenamento [!DNL SFTP] por instância, gerenciar chaves [!DNL GPG] ou [!UICONTROL subdomínios] e [!UICONTROL certificados].
+O [!UICONTROL Painel de controle] permite que os administradores do Adobe Campaign monitorem ativos principais e realizem tarefas administrativas, como gerenciar o armazenamento [!DNL SFTP] por instância, gerenciar chaves [!DNL GPG], ou [!UICONTROL subdomínios] e [!UICONTROL certificados].
 
 Este artigo explica como acessar o Painel de controle e quais pré-requisitos podem funcionar com o Painel de controle.
 
@@ -48,15 +48,15 @@ Antes de começar, conclua os seguintes pré-requisitos:
 
 O vídeo a seguir descreve onde você pode pesquisar o [!DNL IMS org ID] da sua instância.
 
->[!VIDEO](https://video.tv.adobe.com/v/34937?learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
 
 ### Direitos de administrador
 
 Direitos de administrador são necessários para acessar o [!UICONTROL Painel de controle].
 O vídeo a seguir explica como adicionar um administrador a uma instância do Campaign
 
->[!VIDEO](https://video.tv.adobe.com/v/34805?learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
 
 [Saiba mais](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=pt-BR#discover-control-panel) sobre o gerenciamento de permissões.
 
-Consulte a [Central de ajuda do Painel de controle](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=br) para conferir recursos adicionais.
+Consulte a [Central de ajuda do Painel de controle](https://experienceleague.adobe.com/pt-br/docs/control-panel/using/control-panel-home) para conferir recursos adicionais.

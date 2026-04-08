@@ -10,8 +10,8 @@ role: Admin
 level: Experienced
 exl-id: 92d32589-7763-4895-8117-abfd47d808e3
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
-source-wordcount: '317'
+workflow-type: ht
+source-wordcount: '353'
 ht-degree: 100%
 
 ---
@@ -43,18 +43,18 @@ o administrador precisa adicionar o usuário ao Perfil de produto _Campaign-xxx-
 
 ### Vídeos úteis
 
->[!VIDEO](https://video.tv.adobe.com/v/34937?learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
 
-*Verificar IMS Org ID (00:26 min)*
+*Verificar ID da Org de IMS (00:26 min)*
 
->[!VIDEO](https://video.tv.adobe.com/v/34805?learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
 
 *Como adicionar um administrador aos administradores do perfil do produto para utilizar o [!UICONTROL Painel de controle] (01:03 min)*
 
 ### Documentação útil
 
-* [Conheça o Painel de controle](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=br)
-* [Gerenciamento de permissões para o [!UICONTROL Painel de controle]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=br)
+* [Conheça o Painel de controle](https://experienceleague.adobe.com/pt-br/docs/control-panel/using/control-panel-home)
+* [Gerenciamento de permissões do [!UICONTROL Painel de controle]](https://experienceleague.adobe.com/pt-br/docs/control-panel/using/control-panel-home)
 
 ## Estabelecer conexão com o servidor SFTP (cliente ou API)
 
@@ -66,4 +66,4 @@ A conexão com servidores SFTP requer:
 
 ### Documentação útil {#helpful-docs}
 
-* [Fazer logon no servidor SFTP](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=br)
+* [Logon no servidor SFTP](https://experienceleague.adobe.com/pt-br/docs/control-panel/using/control-panel-home)
