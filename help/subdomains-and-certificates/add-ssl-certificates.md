@@ -40,7 +40,7 @@ A Solicitação de assinatura de certificado (CSR) é necessária para a compra 
 
 O vídeo abaixo descreve como gerar uma Solicitação de assinatura de certificado no Painel de controle.
 
->[!VIDEO](https://video.tv.adobe.com/v/31317?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36145?captions=por_br&learn=on){transcript=true}
 
 *Gerar solicitações de assinatura de certificado (02:36 min)*
 
@@ -67,7 +67,7 @@ Após obter o certificado SSL, será necessário instalá-lo para os subdomínio
 
 O vídeo abaixo explica como instalar certificados SSL no [!UICONTROL Painel de controle].
 
->[!VIDEO](https://video.tv.adobe.com/v/31166?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36144?captions=por_br&learn=on){transcript=true}
 
 *Instalar certificados SSL (01:25 min)*
 

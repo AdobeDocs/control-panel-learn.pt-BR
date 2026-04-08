@@ -23,4 +23,4 @@ Para garantir altas taxas de caixa de entrada e baixas taxas de spam, alguns ser
 
 Saiba como adicionar registros de verificação do site [!UICONTROL Google TXT] a todos os seus subdomínios usados para enviar emails para [!DNL GMAIL] endereços com o [!UICONTROL Painel de controle do Campaign].
 
->[!VIDEO](https://video.tv.adobe.com/v/32369?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36849?captions=por_br&learn=on){transcript=true}

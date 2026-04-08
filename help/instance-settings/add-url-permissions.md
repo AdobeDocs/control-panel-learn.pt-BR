@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Aprenda como estabelecer uma conexão da instância do [!DNL Adobe Campaign] para um URL externo.
 
->[!VIDEO](https://video.tv.adobe.com/v/28149?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34407?captions=por_br&learn=on){transcript=true}
 
 Para obter mais informações, consulte [a documentação do produto](https://experienceleague.adobe.com/pt-br/docs/control-panel/using/instances-settings/url-permissions).

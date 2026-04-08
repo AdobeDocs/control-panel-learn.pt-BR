@@ -24,6 +24,6 @@ Todos os ativos, fluxos de trabalho e dados da instância do Campaign são armaz
 
 Aprenda como monitorar o uso do banco de dados de suas instâncias com o [!DNL Control Panel].
 
->[!VIDEO](https://video.tv.adobe.com/v/327175?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448845?captions=por_br&learn=on){transcript=true}
 
 Para obter mais informações sobre monitoramento de banco de dados, consulte a [documentação do produto](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/database-monitoring.html?lang=pt-br).

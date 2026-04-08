@@ -23,8 +23,8 @@ Saiba como exportar dados usando uma chave GPG instalada no Painel de controle
 
 ## Adobe Campaign Standard
 
->[!VIDEO](https://video.tv.adobe.com/v/36380?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/41339?captions=por_br&learn=on){transcript=true}
 
 ## Adobe Campaign V7/V8
 
->[!VIDEO](https://video.tv.adobe.com/v/36399?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/41332?captions=por_br&learn=on){transcript=true}
