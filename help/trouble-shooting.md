@@ -9,10 +9,15 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 92d32589-7763-4895-8117-abfd47d808e3
-source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: ht
-source-wordcount: '353'
-ht-degree: 100%
+TQID: https://experienceleague.adobe.com/EDjVds-2tuOo0ZwbJOBzM7marwmcIeIYuqGnMFjisv0
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
+workflow-type: tm+mt
+source-wordcount: 353
+ht-degree: 70%
 
 ---
 
@@ -23,23 +28,23 @@ ht-degree: 100%
 ### Sintoma: não é possível fazer logon na Experience Cloud
 
 **O que fazer:**
-o usuário precisa localizar a ID organizacional IMS (xxx). O administrador precisa adicionar o usuário ao perfil de produto &quot;Campaign-xxx-Admins&quot; para cada instância que será gerenciada. Ainda que o usuário seja um administrador de todas as instâncias, será necessário adicioná-lo como usuário.
+O usuário precisa localizar a ID organizacional IMS (xxx). O administrador precisa adicionar o usuário ao perfil de produto &quot;Campaign-xxx-Admins&quot; para cada instância que será gerenciada. Ainda que o usuário seja um administrador de todas as instâncias, será necessário adicioná-lo como usuário.
 
 ### Sintoma: os links na página inicial da Experience Cloud para acessar o [!UICONTROL Painel de Controle do Campaign] não são mostrados para o usuário
 
 **Causa:**
-Os usuários não verão os links até que sejam adicionados como usuários ao Perfil do produto _Campaign-xxx-Administrators/Admin_.
+Os usuários não verão os links até que sejam adicionados como usuários ao Perfil de Produto _Campaign-xxx-Administrators/Admin_.
 
 **O que fazer:**
-o administrador precisa adicionar o usuário ao perfil do produto _Campaign-xxx-Admins_ para cada instância que deseja gerenciar. Ainda que o usuário seja um administrador de todas as instâncias, será necessário adicioná-lo como usuário.
+O administrador precisa adicionar o usuário ao Perfil de produto _Campaign-xxx-Admins_ para cada instância que será gerenciada. Ainda que o usuário seja um administrador de todas as instâncias, será necessário adicioná-lo como usuário.
 
 ### Sintoma: uma instância não está listada no [!UICONTROL Painel de Controle do Campaign]
 
 **Causa:**
-o mais provável é que o usuário precise ser adicionado como um *usuário do* Perfil de produto _Campaign-xxx-Administrators/Admin_ para a instância que estiver ausente.
+O mais provável é que o usuário precise ser adicionado como um *usuário* Perfil de Produto _Campanha-xxx-Administradores/Administrador_ para a instância que estiver ausente
 
 **O que fazer:**
-o administrador precisa adicionar o usuário ao Perfil de produto _Campaign-xxx-Admins_ para cada instância que deseja gerenciar. Se o usuário for um administrador de todas as instâncias, será necessário adicioná-lo como &quot;usuário&quot;.
+O administrador precisa adicionar o usuário ao Perfil de produto _Campaign-xxx-Admins_ para cada instância que será gerenciada. Se o usuário for um administrador de todas as instâncias, será necessário adicioná-lo como &quot;usuário&quot;.
 
 ### Vídeos úteis
 

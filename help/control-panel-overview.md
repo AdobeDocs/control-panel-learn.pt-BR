@@ -11,10 +11,15 @@ role: Admin
 level: Experienced
 recommendations: noDisplay, noCatalog
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
-source-git-commit: b84945a1afa1068bdb58947cd14f75d0ec29a0b1
-workflow-type: ht
-source-wordcount: '229'
-ht-degree: 100%
+TQID: https://experienceleague.adobe.com/5DzK8amd3azK1kPO4--F8ltID-RzAWyUtGtpxvKK-Yg
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
+workflow-type: tm+mt
+source-wordcount: 229
+ht-degree: 93%
 
 ---
 
@@ -41,7 +46,7 @@ O painel de controle do Adobe Campaign permite que os administradores do Adobe C
     </a>
     <div>
       <a href="./subdomains-and-certificates/subdomain-delegation.md">
-    <strong>Delegar subdomínios para o Adobe Campaign (vídeo)</strong>
+    <strong>Delegando subdomínios para o Adobe Campaign (vídeo)</strong>
     </a>
     </div>
     <p>
@@ -54,7 +59,7 @@ O painel de controle do Adobe Campaign permite que os administradores do Adobe C
     </a>
     <div>
     <a href="./subdomains-and-certificates/google-txt-record-management.md">
-    <strong>Gerenciamento de registros TXT do Google (vídeos)</strong>
+    <strong>Gerenciamento de registros TXT do Google(vídeos)</strong>
     </a>
     </div>
     <p>
@@ -67,7 +72,7 @@ O painel de controle do Adobe Campaign permite que os administradores do Adobe C
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
-    <strong>Conectar-se a um servidor SFTP</strong>
+    <strong>Conectando-se a um servidor SFTP</strong>
     </a>
     </div>
     <p>
