@@ -29,4 +29,4 @@ Para se conectar a um servidor por meio de um aplicativo cliente ou de uma API, 
 
 Saiba como adicionar um intervalo de endereços IP à lista de permissões.
 
->[!VIDEO](https://video.tv.adobe.com/v/41775?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444641?captions=por_br&learn=on){transcript=true}

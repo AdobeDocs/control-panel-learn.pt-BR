@@ -28,4 +28,4 @@ Para começar a enviar emails ou publicar páginas de destino com o Adobe Campai
 
 Saiba como configurar e enviar um subdomínio usando CNAMEs no Painel de controle.
 
->[!VIDEO](https://video.tv.adobe.com/v/326612?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450129?captions=por_br&learn=on){transcript=true}

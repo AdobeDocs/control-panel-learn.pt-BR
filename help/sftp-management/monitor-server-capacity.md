@@ -40,4 +40,4 @@ Para acessar o Gerenciamento de subdomínio no [!UICONTROL Painel de controle], 
 
 Saiba como monitorar a capacidade de armazenamento dos servidores SFTP.
 
->[!VIDEO](https://video.tv.adobe.com/v/27270?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329491?captions=por_br&learn=on){transcript=true}
