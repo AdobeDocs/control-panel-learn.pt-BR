@@ -10,9 +10,12 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
-source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: ht
-source-wordcount: '288'
+TQID: https://experienceleague.adobe.com/0bt8fHWusGHKrXc-ireqA25Eo75SA2pCj9MhADcHBxA
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
+workflow-type: tm+mt
+source-wordcount: 288
 ht-degree: 100%
 
 ---
@@ -40,7 +43,7 @@ A Solicitação de assinatura de certificado (CSR) é necessária para a compra 
 
 O vídeo abaixo descreve como gerar uma Solicitação de assinatura de certificado no Painel de controle.
 
->[!VIDEO](https://video.tv.adobe.com/v/36145?captions=por_br&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31317?learn=on){transcript=true}
 
 *Gerar solicitações de assinatura de certificado (02:36 min)*
 
@@ -67,7 +70,7 @@ Após obter o certificado SSL, será necessário instalá-lo para os subdomínio
 
 O vídeo abaixo explica como instalar certificados SSL no [!UICONTROL Painel de controle].
 
->[!VIDEO](https://video.tv.adobe.com/v/36144?captions=por_br&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31166?learn=on){transcript=true}
 
 *Instalar certificados SSL (01:25 min)*
 
