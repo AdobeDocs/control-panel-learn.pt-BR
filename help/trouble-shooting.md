@@ -15,9 +15,9 @@ product_v2:
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 353
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -28,29 +28,29 @@ ht-degree: 70%
 ### Sintoma: não é possível fazer logon na Experience Cloud
 
 **O que fazer:**
-O usuário precisa localizar a ID organizacional IMS (xxx). O administrador precisa adicionar o usuário ao perfil de produto &quot;Campaign-xxx-Admins&quot; para cada instância que será gerenciada. Ainda que o usuário seja um administrador de todas as instâncias, será necessário adicioná-lo como usuário.
+O usuário deve localizar a ID da organização IMS (xxx). O administrador precisa adicionar o usuário ao perfil de produto &quot;Campaign-xxx-Admins&quot; para cada instância que será gerenciada. Ainda que o usuário seja um administrador de todas as instâncias, será necessário adicioná-lo como usuário.
 
 ### Sintoma: os links na página inicial da Experience Cloud para acessar o [!UICONTROL Painel de Controle do Campaign] não são mostrados para o usuário
 
 **Causa:**
-Os usuários não verão os links até que sejam adicionados como usuários ao Perfil de Produto _Campaign-xxx-Administrators/Admin_.
+Os usuários não veem os links até que sejam adicionados como usuários ao perfil do produto _Campaign-xxx-Administrators/Admin_.
 
 **O que fazer:**
-O administrador precisa adicionar o usuário ao Perfil de produto _Campaign-xxx-Admins_ para cada instância que será gerenciada. Ainda que o usuário seja um administrador de todas as instâncias, será necessário adicioná-lo como usuário.
+O administrador deve adicionar o usuário ao perfil do produto _Campaign-xxx-Admins_  para cada instância que deseje gerenciar. Ainda que o usuário seja um administrador de todas as instâncias, será necessário adicioná-lo como usuário.
 
 ### Sintoma: uma instância não está listada no [!UICONTROL Painel de Controle do Campaign]
 
 **Causa:**
-O mais provável é que o usuário precise ser adicionado como um *usuário* Perfil de Produto _Campanha-xxx-Administradores/Administrador_ para a instância que estiver ausente
+Provavelmente, o usuário deve ser adicionado como *usuário* do perfil do produto _Campaign-xxx-Administrators/Admin_ para a instância que está faltando
 
 **O que fazer:**
-O administrador precisa adicionar o usuário ao Perfil de produto _Campaign-xxx-Admins_ para cada instância que será gerenciada. Se o usuário for um administrador de todas as instâncias, será necessário adicioná-lo como &quot;usuário&quot;.
+O administrador deve adicionar o usuário ao perfil do produto _Campaign-xxx-Admins_ para cada instância que deseje gerenciar. Se o usuário for um administrador de todas as instâncias, será necessário adicioná-lo como &quot;usuário&quot;.
 
 ### Vídeos úteis
 
 >[!VIDEO](https://video.tv.adobe.com/v/34937?captions=por_br&learn=on){transcript=true}
 
-*Verificar ID da Org de IMS (00:26 min)*
+*Verificar ID da organização de IMS (00:26 min)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/34805?captions=por_br&learn=on){transcript=true}
 
