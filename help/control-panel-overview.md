@@ -12,14 +12,12 @@ level: Experienced
 recommendations: noDisplay, noCatalog
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
 TQID: https://experienceleague.adobe.com/5DzK8amd3azK1kPO4--F8ltID-RzAWyUtGtpxvKK-Yg
-product_v2:
-  - id: dfc56824-e8b9-499e-85d4-21aedb507314
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
-workflow-type: tm+mt
-source-wordcount: 229
-ht-degree: 93%
+workflow-type: ht
+source-wordcount: 259
+ht-degree: 100%
 
 ---
 
@@ -46,9 +44,7 @@ O painel de controle do Adobe Campaign permite que os administradores do Adobe C
     </a>
     <div>
       <a href="./subdomains-and-certificates/subdomain-delegation.md">
-    <strong>Delegando subdomínios para o Adobe Campaign (vídeo)</strong>
-    </a>
-    </div>
+    <strong>Como delegar subdomínios ao Adobe Campaign (vídeo)</strong></div>
     <p>
     <em>Saiba como delegar completamente um subdomínio ao Adobe Campaign.</em>
     <p>
@@ -59,11 +55,9 @@ O painel de controle do Adobe Campaign permite que os administradores do Adobe C
     </a>
     <div>
     <a href="./subdomains-and-certificates/google-txt-record-management.md">
-    <strong>Gerenciamento de registros TXT do Google(vídeos)</strong>
-    </a>
-    </div>
+    <strong>Gerenciamento de registros TXT do Google (vídeos)</strong></div>
     <p>
-    <em> Saiba como adicionar registro de verificação de TXT de um site Google a todos os seus subdomínios usados para enviar emails para endereços GMAIL por meio do Painel de controle do Campaign.</em>
+    <em> Saiba como adicionar registro de verificação do site Google TXT a todos os seus subdomínios usados para enviar emails para endereços GMAIL por meio do Painel de controle do Campaign.</em>
     <p>
   </td>
   <td>
@@ -72,9 +66,7 @@ O painel de controle do Adobe Campaign permite que os administradores do Adobe C
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
-    <strong>Conectando-se a um servidor SFTP</strong>
-    </a>
-    </div>
+    <strong>Conectando-se a um servidor SFTP</strong></div>
     <p>
     <em>Saiba como se conectar ao servidor SFTP usando um aplicativo SFTP cliente, usando as chaves que você armazenou no Painel de controle. </em>
     <p>
